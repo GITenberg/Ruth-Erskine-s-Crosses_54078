@@ -1,0 +1,30 @@
+_repo: Ruth-Erskine-s-Crosses_54078
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    aliases:
+    - Alden, Isabella Macdonald
+    - Alden, Mrs. G. R. (Isabella)
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Ruth Erskine's Crosses
+url: http://www.gutenberg.org/ebooks/54078
